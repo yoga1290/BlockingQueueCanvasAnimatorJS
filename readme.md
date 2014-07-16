@@ -6,7 +6,7 @@
 
 
 	```html
-		<script src="BlockingQueueCanvasAnimator.JS"></script>
+		<script src="BlockingQueueCanvasAnimator.js”></script>
 	```
 
 +	Create a canavas with id, width and height attributes:
