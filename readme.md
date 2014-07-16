@@ -16,7 +16,7 @@
 		<canavas id="myCanvas" width="800" height="800"></canvas>
 	```
 
-	
+
 +	Have fun with the Animator
 
 
@@ -31,7 +31,7 @@
 
 -----
 
-#	function:
+#	functions:
 
 -----
 
