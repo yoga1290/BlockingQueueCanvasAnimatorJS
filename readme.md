@@ -3,14 +3,23 @@
 
 
 +	Add the JS file to your page header:
+
+
 	```html
 		<script src="BlockingQueueCanvasAnimator.JS"></script>
 	```
+
 +	Create a canavas with id, width and height attributes:
+
+
 	```html
 		<canavas id="myCanvas" width="800" height="800"></canvas>
 	```
+
+	
 +	Have fun with the Animator
+
+
 	```javascript
 		var animator=BlockingQueueCanvasAnimator("myCanvas");
 		animator.load([
